@@ -1,2 +1,5 @@
 .vscode/
 
+# Nix flake test repositories (independent git repos)
+test-pub/
+test-priv/
